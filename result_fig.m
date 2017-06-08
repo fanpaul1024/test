@@ -1,3 +1,5 @@
+% hahah
+
 function result_fig(fig_c,gain,theta,beam_direction,fig_info)
    fig_index = 1;
    c = ['y','b','r','g','k'];
